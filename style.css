@@ -1,0 +1,30 @@
+body {
+        font-family: monospace;
+        display: flex;
+        flex-direction: column;
+        background-color: #121212;
+        color: #ffffff;
+        align-items: center;
+        max-width: 600px;
+        margin: auto;
+        padding: 1rem;
+}
+
+label {
+        font-size: 1.15rem;
+        padding: 5px;
+        margin: 5px;
+}
+
+button {
+        margin: 10px;
+        padding: 10px;
+        background-color: lightblue;
+        border-radius: 5px;
+}
+
+@media (max-width: 600px) {
+        body {
+                max-width: 90%;
+        }
+}
