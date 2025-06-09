@@ -34,3 +34,12 @@ Clone the repo and open `index.html` in your browser:
 git clone git@github.com:jasonevensen/mk-fighter-html.git
 cd mk-fighter-html
 open index.html  # or just double-click the file
+```
+
+🛠️ Built With
+`HTML5`
+`CSS3`
+`💪 Mortal Kombat nostalgia`
+
+Part of my learning journey to become a full stack developer.
+Feel free to fork, play with it, or send PRs if you're learning too!
